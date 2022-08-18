@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.kde.plasma.hitokoto</id>
+    <extends>org.kde.plasmashell</extends>
+    <name>hitokoto</name>
+    <name xml:lang="az">%{TƏTBİQ_ADI}</name>
+    <name xml:lang="bg">hitokoto</name>
+    <name xml:lang="ca@valencia">hitokoto</name>
+    <name xml:lang="ca">hitokoto</name>
+    <name xml:lang="cs">hitokoto</name>
+    <name xml:lang="en_GB">hitokoto</name>
+    <name xml:lang="es">hitokoto</name>
+    <name xml:lang="eu">hitokoto</name>
+    <name xml:lang="fi">hitokoto</name>
+    <name xml:lang="fr">hitokoto</name>
+    <name xml:lang="ia">hitokoto</name>
+    <name xml:lang="id">hitokoto</name>
+    <name xml:lang="it">hitokoto</name>
+    <name xml:lang="ko">hitokoto</name>
+    <name xml:lang="nl">hitokoto</name>
+    <name xml:lang="nn">hitokoto</name>
+    <name xml:lang="pl">hitokoto</name>
+    <name xml:lang="pt">hitokoto</name>
+    <name xml:lang="pt_BR">hitokoto</name>
+    <name xml:lang="ru">hitokoto</name>
+    <name xml:lang="sl">hitokoto</name>
+    <name xml:lang="sv">hitokoto</name>
+    <name xml:lang="tr">hitokoto</name>
+    <name xml:lang="uk">hitokoto</name>
+    <name xml:lang="vi">hitokoto</name>
+    <name xml:lang="x-test">xxhitokotoxx</name>
+    <name xml:lang="zh_CN">hitokoto</name>
+    <summary>what your app does in a few words</summary>
+    <summary xml:lang="az">Bu proqramın nə işə yaradığı haqqında bir neçə söz</summary>
+    <summary xml:lang="bg">какво прави вашето приложение с няколко думи</summary>
+    <summary xml:lang="ca@valencia">Què fa esta aplicació en poques paraules</summary>
+    <summary xml:lang="ca">Què fa aquesta aplicació en poques paraules</summary>
+    <summary xml:lang="en_GB">what your app does in a few words</summary>
+    <summary xml:lang="es">Lo que hace su aplicación en pocas palabras</summary>
+    <summary xml:lang="eu">zure aplikazioak egiten duena hitz gutxitan</summary>
+    <summary xml:lang="fi">muutama sana siitä, mitä sovelmasi tekee</summary>
+    <summary xml:lang="fr">ce que votre application fait en quelques mots</summary>
+    <summary xml:lang="ia">cosa tu app face in pauc parolas</summary>
+    <summary xml:lang="id">apa yang dilakukan aplikasi Anda dalam beberapa kata</summary>
+    <summary xml:lang="it">Cosa fa la tua applicazione in poche parole</summary>
+    <summary xml:lang="ko">프로그램이 하는 일에 대한 간단한 설명</summary>
+    <summary xml:lang="nl">wat uw app doet in een paar woorden</summary>
+    <summary xml:lang="nn">nokre få ord om kva programmet gjer</summary>
+    <summary xml:lang="pl">w kilku słowach opis co robi twój program</summary>
+    <summary xml:lang="pt">o que faz a sua aplicação em poucas palavras</summary>
+    <summary xml:lang="pt_BR">o que seu aplicativo faz em poucas palavras</summary>
+    <summary xml:lang="sl">v parih besedah kar počne vaša aplikacija</summary>
+    <summary xml:lang="sv">vad programmet gör med några få ord</summary>
+    <summary xml:lang="tr">uygulamanızı birkaç sözcükle anlatın</summary>
+    <summary xml:lang="uk">призначення вашої програми у декількох словах</summary>
+    <summary xml:lang="vi">dùng vài từ để mô tả ứng dụng của bạn làm việc gì</summary>
+    <summary xml:lang="x-test">xxwhat your app does in a few wordsxx</summary>
+    <summary xml:lang="zh_CN">用一个短句概括您的小程序的功能</summary>
+    <url type="homepage">https://plasma.kde.org/</url>
+    <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.hitokoto</url>
+    <developer_name>%{AUTHOR} &lt;%{EMAIL}&gt;</developer_name>
+    <icon type="stock">applications-system</icon>
+    <project_license>LGPL-2.1+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>

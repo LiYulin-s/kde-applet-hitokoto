@@ -1,0 +1,6 @@
+/usr/share/plasma/plasmoids/org.kde.plasma.hitokoto/metadata.json
+/usr/share/plasma/plasmoids/org.kde.plasma.hitokoto/contents/ui/get_hitokoto.js
+/usr/share/plasma/plasmoids/org.kde.plasma.hitokoto/contents/ui/main.qml
+/usr/share/plasma/plasmoids/org.kde.plasma.hitokoto/contents/images/pairs.svgz
+/usr/share/plasma/plasmoids/org.kde.plasma.hitokoto/metadata.json
+/usr/share/metainfo/org.kde.plasma.hitokoto.appdata.xml

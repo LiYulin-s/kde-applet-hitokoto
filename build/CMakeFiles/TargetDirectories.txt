@@ -1,0 +1,12 @@
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5Plasma_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5Package_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5Config_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5Service_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/KF5WindowSystem_QCH.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/edit_cache.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/rebuild_cache.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/list_install_components.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/install.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/install/local.dir
+/home/liyulin/projects/hitokoto/build/CMakeFiles/install/strip.dir

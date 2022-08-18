@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-39f4449f1acce52b027b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "plasma-hitokoto",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5Config_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5Config_QCH-Debug-11473f03d4923392e18f.json",
+					"name" : "KF5Config_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5CoreAddons_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5CoreAddons_QCH-Debug-029655899f075db44a70.json",
+					"name" : "KF5CoreAddons_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5Package_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5Package_QCH-Debug-67ae1fe92dfd7fbc870e.json",
+					"name" : "KF5Package_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5Plasma_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5Plasma_QCH-Debug-456c4ff4db805c70639c.json",
+					"name" : "KF5Plasma_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5Service_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5Service_QCH-Debug-e7f0ec3e0a1333b55e64.json",
+					"name" : "KF5Service_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5WindowSystem_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5WindowSystem_QCH-Debug-6b0808212a3281d514ff.json",
+					"name" : "KF5WindowSystem_QCH",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/liyulin/projects/hitokoto/build",
+		"source" : "/home/liyulin/projects/hitokoto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
